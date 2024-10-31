@@ -2,7 +2,7 @@
 
 
 ## Description
-A Unity package containing a simple client that interfaces with the XR50 Training Repo. It implements helper functions to interface with its WebAPI/ 
+A Unity package containing a simple client that interfaces with the XR50 Training Repo. It implements helper functions to interface with its WebAPI.
 
 ## Installation
 Import the package into an existing Unity project.
