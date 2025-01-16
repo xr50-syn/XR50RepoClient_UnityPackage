@@ -1,4 +1,4 @@
-## XR5.0 Training Repo Standalone POC
+## XR5.0 Training Repository Helper Package
 
 
 ## Description
