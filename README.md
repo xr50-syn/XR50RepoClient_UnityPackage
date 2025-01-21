@@ -5,7 +5,9 @@
 A Unity package containing a simple client that interfaces with the XR50 Training Repo. It implements helper functions to interface with its WebAPI.
 
 ## Installation
-Import the package into an existing Unity project.
+Import the package into an existing Unity project. Navigate to the Package Manager, select Install package by name, and install the  com.unity.nuget.newtonsoft-json package.
+
+
 
 ## Usage
 The XR50RepoClient.cs can be attached to Unity objects. The UserName and AppName must be set to existing user and App.
